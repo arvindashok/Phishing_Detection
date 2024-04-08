@@ -58,14 +58,6 @@ The following algorithms have been applied for phishing detection:
 
 Each algorithm has been evaluated using various metrics such as accuracy, precision, recall, F1-score, AUC score, mean squared error (MSE), Cohen's Kappa score, Matthews correlation coefficient (MCC), and geometric mean.
 
-## Requirements
-
-Ensure you have Python installed, and install the required libraries using:
-
-```bash
-pip install -r requirements.txt
-```
-
 ## Usage
 
 1. Clone the repository
@@ -73,11 +65,19 @@ pip install -r requirements.txt
 git clone https://github.com/arivindashok/Phishing_Detection.git
 cd Phishing_Detection
 ```
-2. Run the code in a Python environment
+
+2. Ensure you have Python installed, and install the required libraries using:
+
+```bash
+pip install -r requirements.txt
+```
+
+3. Run the code in a Python environment
 ```bash
 python file-name.py
 ```
-3. Analyse your results
+
+4. Analyse your results
 
 
 
