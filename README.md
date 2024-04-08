@@ -71,11 +71,11 @@ pip install -r requirements.txt
 1. Clone the repository
 ```bash
 git clone https://github.com/arivindashok/Phishing_Detection.git
-cd phishing-detection
+cd Phishing_Detection
 ```
 2. Run the code in a Python environment
 ```bash
-python phishing_detection.py
+python file-name.py
 ```
 3. Analyse your results
 
